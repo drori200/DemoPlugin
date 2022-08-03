@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.drori200.demoplugin.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.drori200.demoplugin.MyBundle
 
 class MyProjectService(project: Project) {
 

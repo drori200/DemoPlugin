@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.drori200.demoplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.drori200.demoplugin.MyBundle
 
 class MyApplicationService {
 
